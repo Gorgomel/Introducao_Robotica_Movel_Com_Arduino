@@ -4,6 +4,18 @@ O conteúdo deste README foi adaptado a partir do projeto [arduino_2024](https:/
 
 ## Repositório destinado a materiais para turmas de Arduino UTFPR-PB 2025 <h2>
 
+## 📘 Laboratórios Extras
+
+Abaixo estão os laboratórios adicionais criados para aprofundar o conteúdo apresentado nas aulas. Todos os arquivos estão em PDF e podem ser abertos diretamente no navegador:
+
+| Aula     | PDF dos Laboratórios Extras |
+|----------|------------------------------|
+| Aula 01  | [Laboratórios Intermediário, Avançado e Desafio](https://github.com/Gorgomel/Introducao_Robotica_Movel_Com_Arduino/raw/main/laboratorio_extra/Aula1.pdf) |
+| Aula 02  | [Laboratórios Intermediário, Avançado e Desafio](https://github.com/Gorgomel/Introducao_Robotica_Movel_Com_Arduino/raw/main/laboratorio_extra/Aula2.pdf) |
+| Aula 03  | [Laboratórios Intermediário, Avançado e Desafio](https://github.com/Gorgomel/Introducao_Robotica_Movel_Com_Arduino/raw/main/laboratorio_extra/Aula3.pdf) |
+| Aula 04  | [Laboratórios Intermediário, Avançado e Desafio](https://github.com/Gorgomel/Introducao_Robotica_Movel_Com_Arduino/raw/main/laboratorio_extra/Aula4.pdf) |
+
+
 ### **Aula 01** <h3>
 [Aula 01](https://www.canva.com/design/DAF8b0qX30s/v7epe5JdGK1zMPhROOom_Q/edit?utm_content=DAF8b0qX30s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   |   [Slide 01](https://www.canva.com/design/DAF9vqSSc00/_ZUEchPJ6_tUoG99OHJQ6g/edit?utm_content=DAF9vqSSc00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
