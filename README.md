@@ -16,6 +16,8 @@ Abaixo estão os laboratórios adicionais criados para aprofundar o conteúdo ap
 | Aula 04  | [Laboratórios Intermediário, Avançado e Desafio](https://github.com/Gorgomel/Introducao_Robotica_Movel_Com_Arduino/raw/main/laboratorio_extra/Aula4.pdf) |
 | Aula 05  | [Laboratórios Intermediário, Avançado e Desafio](https://github.com/Gorgomel/Introducao_Robotica_Movel_Com_Arduino/raw/main/laboratorio_extra/Aula5.pdf) |
 | Aula 06  | [Laboratórios Intermediário, Avançado e Desafio](https://github.com/Gorgomel/Introducao_Robotica_Movel_Com_Arduino/raw/main/laboratorio_extra/Aula6.pdf) |
+| Aula 07  | [Laboratórios Intermediário, Avançado e Desafio](https://github.com/Gorgomel/Introducao_Robotica_Movel_Com_Arduino/raw/main/laboratorio_extra/Aula7.pdf) |
+| Aula 08  | [Laboratórios Intermediário, Avançado e Desafio](https://github.com/Gorgomel/Introducao_Robotica_Movel_Com_Arduino/raw/main/laboratorio_extra/Aula8.pdf) |
 
 
 ### **Aula 01** <h3>
